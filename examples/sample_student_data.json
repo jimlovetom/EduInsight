@@ -1,0 +1,92 @@
+{
+  "student_profile": {
+    "student_id": "SAMPLE_001",
+    "grade": "Grade 7",
+    "semester": "2024 Spring",
+    "learning_stage": "middle_school",
+    "notes": "Anonymous sample data for demonstration purposes"
+  },
+  "subject": {
+    "name": "Mathematics",
+    "curriculum_standard": "National Middle School Curriculum",
+    "current_topics": [
+      "Linear equations",
+      "Word problems",
+      "Ratio and proportion"
+    ]
+  },
+  "academic_performance": {
+    "recent_scores": [
+      {
+        "assessment_type": "quiz",
+        "topic": "Linear equations",
+        "score": 68,
+        "full_score": 100,
+        "date": "2024-03-15"
+      },
+      {
+        "assessment_type": "homework",
+        "topic": "Ratio and proportion",
+        "score": 75,
+        "full_score": 100,
+        "date": "2024-03-20"
+      },
+      {
+        "assessment_type": "unit_test",
+        "topic": "Word problems",
+        "score": 62,
+        "full_score": 100,
+        "date": "2024-03-28"
+      }
+    ],
+    "overall_trend": "slightly_declining"
+  },
+  "knowledge_mastery": [
+    {
+      "knowledge_point": "Solving linear equations",
+      "mastery_level": "basic",
+      "evidence": "Frequent calculation errors in multi-step equations"
+    },
+    {
+      "knowledge_point": "Understanding word problems",
+      "mastery_level": "weak",
+      "evidence": "Difficulty translating text into equations"
+    },
+    {
+      "knowledge_point": "Ratio and proportion",
+      "mastery_level": "average",
+      "evidence": "Correct on simple problems, struggles with complex scenarios"
+    }
+  ],
+  "common_mistakes": [
+    {
+      "mistake_type": "calculation_error",
+      "description": "Sign errors when moving terms across the equals sign",
+      "frequency": "high"
+    },
+    {
+      "mistake_type": "conceptual_misunderstanding",
+      "description": "Confuses ratios with fractions in word problems",
+      "frequency": "medium"
+    }
+  ],
+  "learning_behavior": {
+    "homework_completion": "on_time",
+    "class_participation": "low",
+    "study_habits": [
+      "Relies heavily on example memorization",
+      "Rarely reviews mistakes independently"
+    ]
+  },
+  "teacher_observations": {
+    "strengths": [
+      "Shows persistence when guided step-by-step",
+      "Basic arithmetic skills are stable"
+    ],
+    "weaknesses": [
+      "Lacks confidence in solving word problems",
+      "Avoids answering questions in class"
+    ],
+    "additional_comments": "Student may benefit from structured problem-solving frameworks and confidence-building encouragement."
+  }
+}
